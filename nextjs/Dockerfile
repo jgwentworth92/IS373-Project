@@ -62,4 +62,5 @@ ENV PORT 3000
 # set hostname to localhost
 ENV HOSTNAME "0.0.0.0"
 LABEL com.centurylinklabs.watchtower.enable="true"
-CMD ["node", "server.js"]
+CMD ["npm", "run", "dev"]
+
