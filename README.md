@@ -9,7 +9,7 @@
 - 10/18/2023:Jon,Gabriel,Tanner
 - 10/20/2023:Jon,Gabriel,Tanner
 - 10/25/2023:Tanner,Gabriel
-- 10/27/2023:
+- 10/27/2023:Jon, Tanner
 
 ## November
 - 11/01/2023:
