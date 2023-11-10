@@ -15,7 +15,7 @@
 - 11/01/2023:Tanner, Gabriel, Jon (showed up late)
 - 11/03/2023:Tanner, Gabriel, Jon
 - 11/08/2023:Tanner,Jon, Gabe(was late)
-- 11/10/2023:
+- 11/10/2023:Tanner, Gabe
 - 11/15/2023:
 - 11/17/2023:
 - 11/22/2023:
